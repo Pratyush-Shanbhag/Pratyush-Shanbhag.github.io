@@ -12,4 +12,6 @@ email: prshanbhag@ucsd.edu # your email address
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 github_username: Pratyush-Shanbhag
-linkedin_username: pratyush-shanbhag-977786258
+linkedin_username:
+  value: pratyush-shanbhag-977786258
+  logo: fa-brands fa-square-linkedin
