@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>UC San Diego</p>
+    <p>UC San Diego\n</p>
     <p>San Diego, USA</p>
   # <p>555 your office number</p>
   # <p>123 your address street</p>
